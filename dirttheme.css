@@ -7388,7 +7388,7 @@ html .typingindicator-folder {
   --transparencycolor: 0,0,0;
   --accentcolor: 245,169,184;
   --backdrop: rgba(0,0,0,0.85);
-  --textshadow: transparent;
+  --textshadow: 1px 1px 2px pink;
   --transparencyalpha: 0.86;
   --messagetransparency: 0.3;
   --guildchanneltransparency: 0.3;
